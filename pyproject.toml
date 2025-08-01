@@ -1,0 +1,18 @@
+[project]
+name = "playwright-crawler"
+version = "0.2.3"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "alive-progress>=3.3.0",
+    "cachetools>=6.1.0",
+    "loguru>=0.7.3",
+    "markdownify>=1.1.0",
+    "pendulum>=3.1.0",
+    "playwright>=1.54.0",
+    "pytest>=8.4.1",
+    "pytest-playwright>=0.7.0",
+    "pyyaml>=6.0.2",
+    "tablib[all]>=3.8.0",
+]
