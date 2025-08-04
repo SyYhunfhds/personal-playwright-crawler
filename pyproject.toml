@@ -1,6 +1,6 @@
 [project]
 name = "playwright-crawler"
-version = "0.2.3"
+version = "0.2.4a0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
